@@ -63,8 +63,7 @@
   },
 
   // Spell checker extras
-  "cSpell.words": ["turbopack", "TailwindCSS", "Nextjs", "PostCSS", "vercel", "Geist"],
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  }
+  "cSpell.words": ["turbopack", "TailwindCSS", "Nextjs", "PostCSS", "vercel", "Geist"]
 }
+
+// --global
